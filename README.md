@@ -72,3 +72,7 @@ Tercer Terminal:
 
 Con estos códigos debería funcionar el programa como se ve en las imagenes acontinuación.
 ![LAB23](https://user-images.githubusercontent.com/52113892/191166960-2a3d86ea-3f3c-4a2d-a2ad-f4fe1e1c1672.png)
+
+
+https://user-images.githubusercontent.com/68668422/194212007-2602820f-b9a7-4833-accd-4bd9cd6b4dfd.mp4
+
