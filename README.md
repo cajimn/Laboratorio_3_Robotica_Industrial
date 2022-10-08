@@ -21,7 +21,14 @@ Se creó un punto en el espacio de trabajo donde en el laboratorio fuera sencill
 
 > ## Colocar el funcionamiento de los botones 
 
+Para el desarrollo del funcionamiento de los botones se siguió la guía de laboratorio colocando las respectivas entradas y salidas
+Esto se ve desarrollado en el main que se muestra a continuación
+
+![WhatsApp Image 2022-10-06 at 2 10 51 PM](https://user-images.githubusercontent.com/68668422/194710129-44c7ff1f-834d-4398-b822-08217d58bdc7.jpeg)
+
 > ## Resultado 
+
+Para obtener el resultado se pasaron los datos por medio de la usb al flex pendant y verificó el funcionamiento utilizando los botones. Esto se evidencia en el siguiente video.
 
 
 https://user-images.githubusercontent.com/68668422/194212007-2602820f-b9a7-4833-accd-4bd9cd6b4dfd.mp4
