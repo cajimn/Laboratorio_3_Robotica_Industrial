@@ -1,0 +1,4 @@
+MODULE CalibData
+    PERS tooldata Herr_CIJ:=[TRUE,[[0,0,120],[1,0,0,0]],[1,[0,0,1],[1,0,0,0],0,0,0]];
+    TASK PERS wobjdata Tablero_CIJ:=[FALSE,TRUE,"",[[442.929,392.929,67.321],[0.892399064,0.239117756,-0.099045817,-0.369643795]],[[0,0,0],[1,0,0,0]]];
+ENDMODULE
